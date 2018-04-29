@@ -1,4 +1,4 @@
-![Eupraxia Labs Logo](assets/eupraxialabs.png)
+![Eupraxia Labs Logo](assets/Eupraxia_Logo_2C_RGB-300x41.png)
 
 As modern application requirements become more complex, it’s apparent that one runtime, one
 framework, or one architectural style is no longer a feasible strategy. Organizations must figure out how
