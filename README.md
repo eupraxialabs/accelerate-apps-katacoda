@@ -1,4 +1,4 @@
-![Red Hat Logo](assets/redhat.png)
+![Eupraxia Labs Logo](assets/eupraxialabs.png)
 
 As modern application requirements become more complex, it’s apparent that one runtime, one
 framework, or one architectural style is no longer a feasible strategy. Organizations must figure out how
